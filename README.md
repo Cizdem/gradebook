@@ -9,7 +9,7 @@ A command-line gradebook manager written in Python.
 ### 1. Clone / download the project
 
 ```bash
-git clone github.com/Cizdem/gradebook
+git clone https://github.com/Cizdem/gradebook.git
 cd gradebook
 ```
 
